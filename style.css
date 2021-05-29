@@ -1,0 +1,200 @@
+body {
+  background-color: #8e9775;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-family: 'Montserrat-bold';
+  text-align: center;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+/* Section title */
+/* Navbar css */
+.navbar {
+  padding: 0 auto 0.5rem auto;
+}
+
+.navbar-brand {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.5rem;
+}
+
+/* 'M' of marriott in brand */
+.m {
+  font-family: 'Roboto Slab', serif;
+  font-size: 2rem;
+}
+
+.nav-item {
+  padding: 0 13px;
+}
+
+.nav-link {
+  font-family: 'Ubuntu';
+  font-size: 1.1rem;
+}
+
+/* first image */
+.marriott {
+  position: relative;
+  text-align: center;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* ---------------------------- */
+/* features section */
+#features {
+  background-color: #8e9775;
+  padding: 3%;
+}
+
+/* ---------------------------- */
+/* testimonials section */
+#testimonials {
+  background-color: #8e9775;
+  padding: 3%;
+  text-align: center;
+}
+
+/* --------------------------- */
+/* press section */
+#press {
+  background-color: #8e9775;
+  padding: 3%;
+}
+
+/* --------------------------- */
+/* hotel section */
+#hotel {
+  padding: 7% 15% 0;
+  text-align: center;
+}
+
+.icon {
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #464f41;
+}
+
+.join {
+  font-family: 'Ubuntu';
+  font-weight: bold;
+  margin: auto;
+}
+
+/* ---------------------------- */
+/* pricing section */
+#pricing {
+  text-align: center;
+  padding-top: 0;
+  line-height: 1.3;
+}
+
+.member {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.marriott-logo {
+  float: left;
+  width: 40%;
+}
+
+.head {
+  padding-top: 1px;
+}
+
+.download {
+  font-family: 'Ubuntu';
+  font-weight: bold;
+  margin: 2% 2% 4% 0;
+}
+
+/* --------------------------- */
+/* Carouselslides section */
+.carousel-item {
+  text-align: center;
+  height: 500px;
+}
+
+.image-slide {
+  width: 25%;
+  margin: 20px;
+}
+
+/* ---------------------------- */
+/* book-room section */
+#book-room {
+  padding: 50px 100px;
+  text-align: center;
+}
+
+.book-now {
+  padding: 3% 2%;
+}
+
+.suite-head {
+  background-color: #bfcba8;
+}
+
+/* ---------------------------- */
+/* cta section */
+#cta {
+  text-align: center;
+  padding: 5% 15%;
+}
+
+/* 'M' of marriott in cta*/
+.M {
+  font-family: 'Roboto Slab', serif;
+  font-size: 3.2rem;
+}
+
+/* 'arriott' of marriott in cta */
+.n {
+  font-family: 'Roboto Slab', serif;
+  font-size: 2.3rem;
+}
+
+/* ----------------------------- */
+/* footer section */
+#footer {
+  padding: 3% 10%;
+  text-align: center;
+}
+
+.social {
+  margin: 20px 10px;
+}
+
+.social:hover {
+  color: #464f41;
+}
+
+/* 'M' of marriott in footer */
+.mn {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.5rem;
+}
+
+/* 'ARRIOTT' of marriott in footer */
+.mnm {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1rem;
+}
+
+/* ----------------------------------- */
